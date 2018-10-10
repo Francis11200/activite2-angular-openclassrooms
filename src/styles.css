@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+p.pull-right {
+	color: grey;
+}
+
+.btn {
+	margin-left: 2px;
+	margin-right: 2px;
+}
